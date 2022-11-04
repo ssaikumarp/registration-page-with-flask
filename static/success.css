@@ -1,0 +1,26 @@
+body {
+    background-color: #e2d5eb;
+    text-align: center;
+    padding: 50px;
+    
+  }
+    h1 {
+      color: #f51515;
+      font-weight: 900;
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #101214;
+      font-size:20px;
+      margin: 0;
+    }
+ 
+  .card {
+    border-style: outset;
+    background: #e1c9f1 ;
+    padding: 100px;
+    border-radius: 40px;
+    display: inline-block;
+    margin: 0 auto;
+  }
